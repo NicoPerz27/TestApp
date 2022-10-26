@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "username": "Admin",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "admin": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Worker2",
+      "username": "Worker2",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "worker": "worker"
+    },
+    {
+      "id": "3",
+      "name": "Worker3",
+      "username": "Worker3",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "worker": "worker"
+    },
+    {
+      "id": "4",
+      "name": "Worker4",
+      "username": "Worker4",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "worker": "worker"
+    }
+  ],
+  "points": [
+    {
+      "name": "Punto 1",
+      "id": "1",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et ex ut mi consectetur volutpat sed nec lacus. Pellentesque viverra malesuada porttitor. Phasellus varius lobortis nisl, sed semper elit fringilla sit amet."
+    },
+    {
+      "name": "Punto 2",
+      "id": "2",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et ex ut mi consectetur volutpat sed nec lacus. Pellentesque viverra malesuada porttitor. Phasellus varius lobortis nisl, sed semper elit fringilla sit amet."
+    },
+    {
+      "name": "Punto 3",
+      "id": "3",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et ex ut mi consectetur volutpat sed nec lacus. Pellentesque viverra malesuada porttitor. Phasellus varius lobortis nisl, sed semper elit fringilla sit amet."
+    },
+    {
+      "name": "Punto 4",
+      "id": "4",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et ex ut mi consectetur volutpat sed nec lacus. Pellentesque viverra malesuada porttitor. Phasellus varius lobortis nisl, sed semper elit fringilla sit amet."
+    },
+    {
+      "name": "Punto 5",
+      "id": "5",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et ex ut mi consectetur volutpat sed nec lacus. Pellentesque viverra malesuada porttitor. Phasellus varius lobortis nisl, sed semper elit fringilla sit amet."
+    }
+  ],
+  "joins": [
+    {
+      "id": "4",
+      "username": "Worker4",
+      "time": ""
+    }
+  ]
+}
