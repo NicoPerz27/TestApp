@@ -46,7 +46,7 @@
 
 
 
-####Worker
+#### Worker
 
 
 **QR** => Boton ligado a funcion para generar codigo qr con el username de el trabajador, para almacenar en bd mediante metodo post
